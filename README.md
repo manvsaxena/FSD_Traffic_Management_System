@@ -50,13 +50,6 @@ Google Maps API (for geolocation services)
 
 JWT Authentication
 
-⚙️ Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/full-stack-traffic-mgmt.git
-cd full-stack-traffic-mgmt
-
 Install dependencies:
 
 # Backend
